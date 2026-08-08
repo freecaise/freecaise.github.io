@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: https://freecaise.github.io
+Sitemap: https://freecaise.github.io/sitemap.xml
